@@ -70,3 +70,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Start the storybook component explorer on port 9009:
 ### `yarn storybook`
+
+### Add storybook storyshots addon (One time)
+`yarn add -D @storybook/addon-storyshots react-test-renderer`
