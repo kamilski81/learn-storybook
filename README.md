@@ -1,3 +1,7 @@
+Left off here:
+
+https://www.learnstorybook.com/intro-to-storybook/react/en/data/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
